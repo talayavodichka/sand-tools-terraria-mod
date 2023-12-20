@@ -1,0 +1,6 @@
+This mod adds sand tools to the game, they are easy to obtain at the beginning of the game.
+
+Changelog:
+1.1.0 - characteristics were increased dishonestly 
+1.0.1 - rebalance
+1.0.0 - added tool sprites and their properties

@@ -1,0 +1,18 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	SandSword: {
+		DisplayName: Песчаный меч
+		Tooltip: И это по-твоему удар?
+	}
+
+	SandAxe: {
+		DisplayName: Песчаный топор
+		Tooltip: Входит в набор песчаного джентельмена.
+	}
+
+	SandPickaxe: {
+		DisplayName: Песчаная кирка
+		Tooltip: Бесполезный инструмент.
+	}
+}
