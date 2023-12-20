@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fC8QoSQcgLYjHxazYa3PSCgseLlMK/yBlG7i8qkPLB53b+FFNGLed4nDtLK8zi8NdGgbBAh5b6NG3+RIyIcZ2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\SandTools\\SandTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

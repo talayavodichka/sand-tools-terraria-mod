@@ -15,4 +15,18 @@ Items: {
 		DisplayName: Sand Pickaxe
 		Tooltip: Can break sand.
 	}
+
+	SandPoopSummonStaff: {
+		DisplayName: Sand Poop Summon Staff
+		Tooltip: ""
+	}
 }
+
+Buffs: {
+	PoopyMonsterBuff: {
+		DisplayName: Poopy Monster Buff
+		Description: Mods.SandTools.Buffs.PoopyMonsterBuff.Description
+	}
+}
+
+Projectiles.PoopyMonster.DisplayName: Poopy Monster
