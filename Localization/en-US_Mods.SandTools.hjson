@@ -18,14 +18,14 @@ Items: {
 
 	SandPoopSummonStaff: {
 		DisplayName: Sand Poop Summon Staff
-		Tooltip: ""
+		Tooltip: Peepy-poopy, now you are droopy.
 	}
 }
 
 Buffs: {
 	PoopyMonsterBuff: {
 		DisplayName: Poopy Monster Buff
-		Description: Mods.SandTools.Buffs.PoopyMonsterBuff.Description
+		Description: Not bad, but what about going to the toilet?
 	}
 }
 

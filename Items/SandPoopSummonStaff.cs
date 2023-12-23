@@ -28,9 +28,9 @@ namespace SandTools.Items
             Item.UseSound = SoundID.Item44;
 
             Item.DamageType = DamageClass.Summon;
-            Item.damage = 100000;
-            Item.knockBack = 20;
-            Item.mana = 5;
+            Item.damage = 8;
+            Item.knockBack = 2;
+            Item.mana = 10;
             Item.noMelee = true;
             Item.value = 0;
             Item.rare = 0;
@@ -41,7 +41,7 @@ namespace SandTools.Items
         public override void AddRecipes()
         {
             Recipe recipe = CreateRecipe();
-            recipe.AddIngredient(ItemID.SandBlock, 10);
+            recipe.AddIngredient(ItemID.SandBlock, 24);
             recipe.AddTile(TileID.WorkBenches);
             recipe.Register();
         }

@@ -8,7 +8,7 @@ Items: {
 
 	SandAxe: {
 		DisplayName: Песчаный топор
-		Tooltip: Входит в набор песчаного джентельмена.
+		Tooltip: Топор песчаного дровосека.
 	}
 
 	SandPickaxe: {
@@ -17,16 +17,16 @@ Items: {
 	}
 
 	SandPoopSummonStaff: {
-		// DisplayName: Sand Poop Summon Staff
-		// Tooltip: ""
+		DisplayName: Посох Мистера Какашки
+		Tooltip: Принадлежит волшебнику Туалетной долины.
 	}
 }
 
 Buffs: {
 	PoopyMonsterBuff: {
-		// DisplayName: Poopy Monster Buff
-		// Description: Mods.SandTools.Buffs.PoopyMonsterBuff.Description
+		DisplayName: Мистер Какашка
+		Description: Вы чувствуете чей-то счастливый взгляд.
 	}
 }
 
-// Projectiles.PoopyMonster.DisplayName: Poopy Monster
+Projectiles.PoopyMonster.DisplayName: Мистер Какашка

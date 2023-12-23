@@ -8,14 +8,14 @@ namespace SandTools.Items
 	{
 		public override void SetDefaults()
 		{
-			Item.damage = 100000;
+			Item.damage = 16;
 			Item.DamageType = DamageClass.Melee;
 			Item.width = 40;
 			Item.height = 40;
-			Item.useTime = 5;
-			Item.useAnimation = 5;
+			Item.useTime = 25;
+			Item.useAnimation = 25;
 			Item.useStyle = 1;
-			Item.knockBack = 9;
+			Item.knockBack = 4;
 			Item.value = 0;
 			Item.rare = 0;
 			Item.UseSound = SoundID.Item1;
@@ -25,7 +25,7 @@ namespace SandTools.Items
 		public override void AddRecipes()
 		{
 			Recipe recipe = CreateRecipe();
-			recipe.AddIngredient(ItemID.SandBlock, 8);
+			recipe.AddIngredient(ItemID.SandBlock, 16);
 			recipe.AddTile(TileID.WorkBenches);
 			recipe.Register();
 		}

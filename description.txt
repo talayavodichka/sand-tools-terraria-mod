@@ -5,3 +5,4 @@ Changelog:
 1.0.1 - rebalance
 1.1.0 - characteristics were increased dishonestly 
 1.2.0 - sand summon staff added
+1.2.1 - balance restored, item localization
